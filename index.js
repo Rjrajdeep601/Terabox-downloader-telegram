@@ -26,6 +26,14 @@ async function main() {
       if (
         messageText.includes("terabox.com") ||
         messageText.includes("teraboxapp.com")
+        messageText.includes("terasharelink.com")
+        messageText.includes("terasharelink.com")
+        messageText.includes("terasharelink.com")
+        messageText.includes("1024terabox.com")
+        messageText.includes("terafileshare.com")
+        
+        messageText.includes("teraboxshare.com")
+        
       ) {
         //const parts = messageText.split("/");
         //const linkID = parts[parts.length - 1];
